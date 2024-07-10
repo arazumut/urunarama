@@ -1,4 +1,4 @@
-<h1>basic portfolio website</h1>
+<h1>3D portfolio website</h1>
 
 ![Ekran görüntüsü 2024-07-05 112536](https://github.com/arazumut/urunarama/assets/150933483/31b72827-c5ae-4eef-b3af-ab626829e430)
 ![Ekran görüntüsü 2024-07-05 112525](https://github.com/arazumut/urunarama/assets/150933483/25e7ffc1-a04e-40a4-8bd5-19ee000972ae)
